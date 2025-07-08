@@ -26,6 +26,8 @@
 
 - 🔫 **Simulator de aplicatie de matchmaking (Spring Boot & Angular):** Creare de fișiere de backup, bază de date NoSQL, stocare in AWS S3 [🔗 Repo](https://github.com/Radush02/PAO-Spring-App)
 
+- 📞 **Aplicație web pentru comunicarea audio și video:** Proiect realizat tehnologii precum WebRTC & WebSockets [🔗 Repo](https://github.com/Radush02/VoiceApp)
+
 ---
 
 ## 📫 Contact
