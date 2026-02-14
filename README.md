@@ -1,36 +1,57 @@
-# 👋 Salut! Eu sunt Radu
+# Radush
 
-**Sunt student la Informatica în cadrul Universității din București** și sunt pasionat de dezvoltare software, algoritmi și proiecte care rezolvă probleme reale. Am lucrat atât individual, cât și în echipe, pe o varietate de aplicații — de la jocuri 3D până la scripturi de automatizare și aplicații web full-stack.
-
----
-
-## 🛠️ Tech Stack
-
-- **Limbaje:** C++, C#, Java, Python, TypeScript, SQL
-- **Backend:** Spring Boot, .NET,
-- **Frontend:** Angular, HTML, CSS
-- **Baze de date:** MySQL, PostgreSQL, MongoDB
-- **Alte tehnologii:** AWS S3, Git, GitHub Actions, Unreal Engine 5
+Computer Science student focused on backend systems.  
+I enjoy building scalable architectures, experimenting with low-level logic, and turning ideas into working software.
 
 ---
 
-## 🚀 Proiecte realizate
+## Tech Stack
 
-- 🎮 **FPS stealth game în Unreal Engine 5:** AI avansat, camere de securitate, optimizări de performanță. [🔗 Repo](https://github.com/Radush02/Unreal)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🚗 **Website de închirieri auto (Angular & .NET):** Integrare cu Google Maps, OpenAI API, AWS S3. [🔗 Repo](https://github.com/Radush02/ProiectMDS)
+### Backend & Architecture
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 🟩 **Script Wordle optimizat pentru română:** Algoritm care găsește soluția optimă plecând de la cuvântul cu entropia maxim determinată. [🔗 Repo](https://github.com/Radush02/wordle-ASC)
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- ⚽️ **Simulator de fotbal în C++ cu interactiune in CLI:** Proiect realizat cu scopul de a demonstra principiile OOP [🔗 Repo](https://github.com/Radush02/oop-lab)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔫 **Simulator de aplicatie de matchmaking (Spring Boot & Angular):** Creare de fișiere de backup, bază de date NoSQL, stocare in AWS S3 [🔗 Repo](https://github.com/Radush02/PAO-Spring-App)
-
-- 📞 **Aplicație web pentru comunicarea audio și video:** Proiect realizat tehnologii precum WebRTC & WebSockets [🔗 Repo](https://github.com/Radush02/VoiceApp)
+### Game Development
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
-## 📫 Contact
+## Featured Projects
 
-- **Email:** raducordunianu02@gmail.com
-- **LinkedIn:** [radu-cordunianu](https://www.linkedin.com/in/radu-cordunianu-6935ba229/)
+### Code Judge
+Distributed online code execution platform with sandboxed Docker execution and message-driven architecture. [Repo](https://github.com/radush02/endava-pwj)
+
+### VoiceApp
+Full-stack real-time communication system with WebRTC audio/video and messaging. Built as a bachelor thesis project. [Repo](https://github.com/radush02/VoiceApp)
+
+### Unreal – Stealth Extraction
+First-person stealth game with AI patrols, sound detection, cameras, and mission objectives. [Repo](https://github.com/radush02/Unreal)
+
+### OOP Lab – Football Match Manager
+C++ application modeling teams, players, referees, ticketing, and match simulation using object-oriented design. [Repo](https://github.com/radush02/oop-lab)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Radush02&show_icons=true&hide_border=true&theme=dark) ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Radush02&layout=compact&hide_border=true&theme=dark)
+
